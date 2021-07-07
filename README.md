@@ -1,4 +1,3 @@
-# Unity-Scripting-With-BOLT-Tutorial
 # Unity Bolt 공식 튜토리얼로 게임 개발 입문하기
 
 ## 소개
