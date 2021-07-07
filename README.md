@@ -41,7 +41,7 @@
 |  16  |     C# 기초 문법 - 2      |                    조건문, 반복문, 메서드                    |           |
 |  17  |     C# 기초 문법 - 3      |                      객체지향과 클래스                       |           |
 |  18  |    Unity Scripting - 1    |              Monobehaviour 소개 및 기본 씬 구현              |           |
-|  19  |    Unity Scripting - 2    |    애니메이션 제작, 애니메이터 설정, 애니메이터 스크립팅     |           |
+|  19  |    Unity Scripting - 2    |                    플레이어컨트롤러 구현                     |           |
 |  20  |    Unity Scripting - 3    |    애니메이션 제작, 애니메이터 설정, 애니메이터 스크립팅     |           |
 |  21  |    Unity Scripting - 4    | 점프 구현 및 레이캐스트(RayCast)를 이용한 충돌 처리 스크립팅 |           |
 |  22  |    Unity Scripting - 5    |        콜라이더(Collider)를 이용한 충돌 처리 스크립팅        |           |
