@@ -23,7 +23,7 @@
 | :---: | :-----------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | Intro |         Introduce         |                        튜토리얼 소개                         | [링크](https://www.youtube.com/watch?v=aGaOi0_TVTA&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=1) |
 |   0   |         Git 기초          |                           Git 기초                           |     [링크](https://www.youtube.com/watch?v=8UfNRpC21l0)      |
-|   1   |   Unity 개발 환경 세팅    | Unity 개발을 위한 기본 환경 세팅(Visual Studio 2019, Unity 설치 및 Git) |                                                              |
+|   1   |   Unity 개발 환경 세팅    | Unity 개발을 위한 기본 환경 세팅(Visual Studio 2019, Unity 설치 및 Git) | [링크](https://www.youtube.com/watch?v=k_W0GIWBP7I&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=3) |
 |   2   | Unity 인터페이스 둘러보기 |                Unity 엔진 인터페이스 둘러보기                |                                                              |
 |   3   |      Unity Bolt - 0       |            Unity Bolt 소개 및 Bolt 실습 환경 세팅            |                                                              |
 |   4   |      Unity Bolt - 1       |     컴포넌트, 기초 게임 수학(벡터), 기초 게임 수학(공간)     |                                                              |
