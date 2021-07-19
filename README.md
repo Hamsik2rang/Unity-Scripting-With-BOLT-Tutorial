@@ -24,8 +24,8 @@
 | Intro |         Introduce         |                        튜토리얼 소개                         | [링크](https://www.youtube.com/watch?v=aGaOi0_TVTA&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=1) |
 |   0   |         Git 기초          |                           Git 기초                           |     [링크](https://www.youtube.com/watch?v=8UfNRpC21l0)      |
 |   1   |   Unity 개발 환경 세팅    | Unity 개발을 위한 기본 환경 세팅(Visual Studio 2019, Unity 설치 및 Git) | [링크](https://www.youtube.com/watch?v=k_W0GIWBP7I&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=3) |
-|   2   | Unity 인터페이스 둘러보기 |                Unity 엔진 인터페이스 둘러보기                |                                                              |
-|   3   |      Unity Bolt - 0       |            Unity Bolt 소개 및 Bolt 실습 환경 세팅            |                                                              |
+|   2   | Unity 인터페이스 둘러보기 |                Unity 엔진 인터페이스 둘러보기                | [링크](https://www.youtube.com/watch?v=w_A5VLdB8Xc&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=4) |
+|   3   |      Unity Bolt - 0       |            Unity Bolt 소개 및 Bolt 실습 환경 세팅            | [링크](https://www.youtube.com/watch?v=1OYdnUBtU-I&list=PLWoGZv-LqubcI3M_Vn1_aUjm0_sywwAbI&index=5) |
 |   4   |      Unity Bolt - 1       |     컴포넌트, 기초 게임 수학(벡터), 기초 게임 수학(공간)     |                                                              |
 |   5   |      Unity Bolt - 2       |         Unity의 애니메이션, FSM, 애니메이션 파라미터         |                                                              |
 |   6   |      Unity Bolt - 3       | 콜라이더(Collider)와 레이캐스트(RayCast)를 이용한 충돌 체크 및 디버깅 방법 |                                                              |
